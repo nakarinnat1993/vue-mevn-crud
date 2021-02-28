@@ -1,4 +1,4 @@
-# vue3-mevn-crud
+# vue-mevn-crud
 
 ## Project setup
 ```
